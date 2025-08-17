@@ -1,12 +1,12 @@
 # Shipment API
 
-REST API untuk Logistics Management Service menggunakan Go.
+REST API untuk Shipment Auth menggunakan Go.
 
 ## Fitur
-- Create Shipment
-- Update Shipment Status
-- Track Shipment
-- Get Shipments
+- Register
+- Login
+- Get user Profile
+- Update user Profile
 
 ## Instalasi
 1. Clone repository:
